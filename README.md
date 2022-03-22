@@ -1,5 +1,5 @@
 # 😊 Choi Haneol
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Choi-HanEol&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 <!-- ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=110&text=Choi%20Haneol&fontSize=90&fontColor=#FFFFFF)<br/> -->
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Choi-Haneol&show_icons=true&theme=radical)<br/>
 [![trophy](https://github-profile-trophy.vercel.app/?username=Choi-Haneol&theme=darkhub&column=7)](https://github.com/ryo-ma/github-profile-trophy)
